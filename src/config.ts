@@ -6,7 +6,7 @@ export const siteConfig = {
   accentColor: "#6366f1",
   social: {
     email: "javierhuamancruces@gmail.com",
-    linkedin: "https://linkedin.com/in/javiercruces",
+    linkedin: "https://www.linkedin.com/in/javiercruces/",
     youtube: "https://www.youtube.com/channel/UC1aWA5Fo6vodMuFDPoz2jFg",
   },
   aboutMe:
